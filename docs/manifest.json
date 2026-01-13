@@ -2,7 +2,7 @@
   "name": "Cyberpunk Calculator",
   "short_name": "CyberCalc",
   "description": "A cyberpunk-themed scientific calculator with currency and unit conversion",
-  "start_url": "./cyberpunk-calculator.html",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#050a12",
   "theme_color": "#00e5ff",
